@@ -54,7 +54,7 @@ Window Terminal
         "name": "Git Bash",
         "commandline": "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
         "icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
-        "startingDirectory": "%USERPROFILE%",
+        // "startingDirectory": "%USERPROFILE%",
         "cursorShape": "filledBox"
       }
     ]
