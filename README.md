@@ -66,7 +66,7 @@ guid can be generated in the other windows terminal with following code
 [guid]::NewGuid()
 ```
 
-> Save & exit the prifiles
+> Save & exit the prifiles  
 > Run your window terminal again : you may find Git Bash Link
 
 
