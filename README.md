@@ -22,10 +22,10 @@ Window Terminal
 > Microsoft Store : Search "Windows Terminal"
 
 ## How to set Git Bash into Window Terminal  
-> Run Windows Terminal
-> To go Settings (or Press Ctrl + ,)
-> Press 'Open JSON File
-> Add Git Bash Profile into 'profiles'
+> Run Windows Terminal  
+> Go Settings (or Press Ctrl + ,)  
+> Press 'Open JSON File  
+> Add Git Bash Profile into 'profiles'  
 ```
   "profiles": {
     "defaults": {},
@@ -66,7 +66,8 @@ guid can be generated in the other windows terminal with following code
 [guid]::NewGuid()
 ```
 
-> Save to prifiles and run your window terminal again : you may find Git Bash Link
+> Save & exit the prifiles
+> Run your window terminal again : you may find Git Bash Link
 
 
 
